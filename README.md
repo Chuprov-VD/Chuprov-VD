@@ -1,6 +1,6 @@
 - Имя: Владимир. / Name: Vladimir.
 
-- Возраст: 32 год. / Age: 32 years old.
+- Возраст: 33 год. / Age: 33 years old.
 
 - Образование: бакалавр, бизнес-информатика. / Education: Bachelor's degree, business Informatics.
 
